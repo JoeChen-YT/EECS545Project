@@ -5,4 +5,8 @@ The code in SubNew_leastSquare_ERM.py is corresponding to the Section 3.1 in the
 
 The code in SubNew_robust_loss.py is corresponding to the Section 3.2 in the report
 
-The code in 
+The codes in HandDigit_.* are corresponding to the Section 3.3 in the report
+
+Hope you guys are interested in what our teams have explored!!!
+
+Thanks!!!
